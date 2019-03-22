@@ -97,7 +97,7 @@ header a:hover{
 }
 
 #showcase p{
-    font-size: 20px;
+    font-size: 24px;
 }
 
 /* Newsletter */
@@ -139,7 +139,8 @@ header a:hover{
 }
 
 #boxes .box img{
-    width : 90px;
+    width : 300px;
+    height : 200px;
 }
 
 /* Sidebar in About */

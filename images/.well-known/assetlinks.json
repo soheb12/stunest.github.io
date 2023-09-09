@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.bluephantom.synapse.v1",
+    "sha256_cert_fingerprints":
+  ["43:D1:71:BF:D0:DA:B9:D3:3A:08:F3:59:1A:6B:E9:E4:87:35:46:5C:39:86:EA:17:53:9C:EC:D4:5C:62:20:73"]
+  }
+}]
